@@ -1,0 +1,15 @@
+{
+    "display_name": "Quiet Stream Keepalive",
+    "loading_order": 50,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "local",
+    "version": "1.0.0",
+    "homePage": "",
+    "hooks": {
+        "activate": "init",
+        "enable": "onEnable",
+        "disable": "onDisable"
+    }
+}
